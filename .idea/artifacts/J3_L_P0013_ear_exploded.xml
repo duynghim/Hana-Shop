@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="J3.L.P0013:ear exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/J3_L_P0013_ear_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="J3.L.P0013/javaeeApplication/javaEEApplication" />
+    </root>
+  </artifact>
+</component>
